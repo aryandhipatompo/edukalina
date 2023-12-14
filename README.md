@@ -4,4 +4,4 @@
 
 # Demo
 
-Silahkan Kunjungi website kami : [EDUKALINA](https://http://edukalina.netlify.app// "Edukalina").
+Silahkan Kunjungi website kami : [EDUKALINA](https://edukalina.netlify.app// "Edukalina").
