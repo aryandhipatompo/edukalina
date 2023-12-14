@@ -1,4 +1,4 @@
-![Beranda](src/public/logo.png)
+![Beranda](src/public/logo.jpg)
 # About Edukalina
 .
 
