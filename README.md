@@ -5,3 +5,15 @@
 # Demo
 
 Silahkan Kunjungi website kami : [EDUKALINA](https://edukalina.netlify.app// "Edukalina").
+
+# Team
+
+Team ID : C523-PS039
+
+Anggota Kelompok :
+
+- F278YA194 – Muh. Dadang Hawari
+- F635YA187 – Aryandhi Alhaqam Patompo
+- F253YA254 – Moh. Azzam Al Husaini
+- F253YA258 – Mario Alfredo Bawu
+- S253YA462 – Rama Indrawan
