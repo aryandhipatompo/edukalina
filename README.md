@@ -1,6 +1,6 @@
 ![Beranda](src/public/logo.jpg)
 # About Edukalina
-.
+...
 
 # Demo
 
@@ -17,3 +17,9 @@ Anggota Kelompok :
 - F253YA254 – Moh. Azzam Al Husaini
 - F253YA258 – Mario Alfredo Bawu
 - S253YA462 – Rama Indrawan
+
+# Screenshots
+
+## Beranda
+
+![Beranda]
