@@ -22,4 +22,20 @@ Anggota Kelompok :
 
 ## Beranda
 
-![Beranda]
+![Beranda](src/public/)
+
+## Tips
+
+![Tips](src/public/)
+
+## Event
+
+![Event](src/public/)
+
+## Diskusi
+
+![Diskusi](src/public/)
+
+## Tentang Kami
+
+![Tentang Kami](src/public/)
